@@ -10,4 +10,4 @@
    - It contains the methods of AdminAccount like addParkingSpot, removeParkingSpot, addEntrance, addExit, addDisplayboard .
 * client.cpp
   - Here client interact with the ParkingLotSystem interface .
-  - The ParkingLotSystem is implemented on Singleton design pattern where the all the interaction in take place at one interface.
+  - The ParkingLotSystem is implemented on Singleton design pattern where the all the interaction  take place at a single interface.
