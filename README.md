@@ -2,7 +2,7 @@
 ### ClassDiagram of PrankingLotSystem 
 * **Image of class Diagram**,
 ![Class Diagram](ClassDiagramOfParkingLot.png)
-![Link For better view image](https://codetoflow.com?uid=00adb8f5-ee62-4cb9-8e00-c67c3e3be4c0)
+:globe_with_meridians: [Link For better view image](https://codetoflow.com?uid=00adb8f5-ee62-4cb9-8e00-c67c3e3be4c0)
 
 ### The solution contains the three different files
 * ParkingLotSystem.h
